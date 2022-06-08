@@ -15,6 +15,17 @@
     justify-content: space-between;
     padding: 8px;
 }
+.left,
+.right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+  
 ul {
     display: flex;
     margin: 0;
@@ -25,17 +36,7 @@ ul {
 li {
     text-decoration: none;
 }
-.left,
-.right {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-}
+
 a {
     color: #e5e7eb;
 }
-.logo {
-    color: #F9FAF8;
-    font-size: 24px;
-}
-  
