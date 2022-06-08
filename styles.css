@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.header {
+    background-color: #1F2937;
+    color:aliceblue;
+}
+.top-header,
+.bottom-header {
+    display: flex;
+}
+.top-header {
+    justify-content: space-between;
+    padding: 8px;
+}
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    list-style-type: none;
+  }
+li {
+    text-decoration: none;
+}
+.left,
+.right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+a {
+    color: #e5e7eb;
+}
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+  
