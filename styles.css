@@ -6,6 +6,7 @@
 .header {
     background-color: #1F2937;
     color:aliceblue;
+    padding: 10px 200px;
 }
 .top-header,
 .bottom-header {
@@ -25,7 +26,6 @@
     color: #F9FAF8;
     font-size: 24px;
 }
-  
 ul {
     display: flex;
     margin: 0;
@@ -36,7 +36,9 @@ ul {
 li {
     text-decoration: none;
 }
-
 a {
     color: #e5e7eb;
+}
+.top-header .right .links {
+    font-size: 18px;
 }
