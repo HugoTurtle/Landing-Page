@@ -69,3 +69,12 @@ a {
     font-size: 18px;
     color: #e5e7eb;
 }
+.bottom-header .left button {
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: #F9FAF8;
+    height: 35px;
+    font-size: 16px;
+    font-weight: 900;
+    width: 100px;
+}
