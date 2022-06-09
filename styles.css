@@ -50,6 +50,8 @@ a {
 }
 .bottom-header {
     gap: 100px;
+    width: 900px;
+    justify-content: space-between;
 }
 .bottom-header .left {
     flex-wrap: wrap;
@@ -57,9 +59,9 @@ a {
     width: 300px;
 }
 .bottom-header .right {
-    height: 210px;
-    width: auto;
     background: gray;
+    flex: 1;
+    justify-content: center;
 } 
 .bottom-header h1 {
     font-size: 48px;
@@ -77,5 +79,5 @@ a {
     font-size: 16px;
     font-weight: 900;
     width: 100px;
-    border-color: #3882F6;
+    border-color: 3882F6;
 }
