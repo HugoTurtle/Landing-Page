@@ -136,3 +136,26 @@ a {
     font-size: 25px;
     font-weight: 900;
 }
+.sign-up-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 100px;
+    padding: 100px;
+}
+.sign-up-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 25px;
+    min-width: 1000px;
+    height: auto;
+}
+.sign-up-container .left {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    align-items: start;
+}
