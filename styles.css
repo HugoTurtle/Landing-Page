@@ -5,7 +5,7 @@
 }
 .header {
     background-color: rgb(31, 41, 55);
-    color: aliceblue;
+    color: #F9FAF8;
     padding: 10px 200px;
     display: flex;
     flex-direction: column;
@@ -141,7 +141,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 0 0 100px;
+    margin: 0 0 15px;
     padding: 100px;
 }
 .sign-up-container {
@@ -180,3 +180,12 @@ a {
     font-weight: 900;
     border-style: solid;
 }
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 72px;
+    background: rgb(31, 41, 55);
+    color: #F9FAF8;
+    padding: 25 0;
+  }
