@@ -149,13 +149,24 @@ a {
     justify-content: center;
     align-items: center;
     background-color: #3882f6;
-    border-radius: 25px;
+    border-radius: 10px;
     min-width: 1000px;
     height: auto;
+    gap: 80px;
 }
 .sign-up-container .left {
     display: flex;
     flex-direction: column;
     gap: 0;
     align-items: start;
+    color: #F9FAF8;
+    font-size: 25px;
+    padding: 35px;
+}
+.left .bold {
+    font-weight: 900;
+    font-size: 25px;
+}
+.left p {
+    font-size: 15px;
 }
