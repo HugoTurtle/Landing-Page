@@ -161,17 +161,17 @@ a {
     align-items: start;
     color: #F9FAF8;
     font-size: 25px;
-    padding: 35px;
+    padding: 50px;
 }
 .left .bold {
     font-weight: 900;
-    font-size: 25px;
+    font-size: 27px;
 }
 .left p {
-    font-size: 15px;
+    font-size: 20px;
 }
 .sign-up-container button {
-    padding: 10px 35px;
+    padding: 10px 40px;
     border-radius: 10px;
     border-color: #F9FAF8;
     background-color: #3882f6;
